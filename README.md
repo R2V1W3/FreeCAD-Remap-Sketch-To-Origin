@@ -1,6 +1,7 @@
 # FreeCAD-Remap-Sketch-To-Origin
 Please use updated Remap_Sketch_to_LCS.FCMacro. 
-Remap_sketch_to_origin.FCMacro contains a deprecated function that will not work after version 27.2. 
+#
+Deprecated Remap_sketch_to_origin.FCMacro contains a deprecated function that will no longer work after version 27.2. 
 #
 
 This Macro detaches selected Sketch and reattaches it to the nearest body origin plane, and applies appropriate offsets to preserve original spatial position. 
