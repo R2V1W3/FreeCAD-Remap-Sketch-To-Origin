@@ -1,10 +1,6 @@
 import FreeCAD as App
 import FreeCADGui as Gui
 
-#import warnings
-# Ignore only deprecation warnings
-#warnings.filterwarnings('ignore', category=DeprecationWarning)
-
 # 1. Grab the current selected sketch
 selected_objects = Gui.Selection.getSelection()
 
