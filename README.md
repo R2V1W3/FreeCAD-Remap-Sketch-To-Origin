@@ -1,5 +1,5 @@
 # FreeCAD-Remap-Sketch-To-Origin
-Please use updated Remap_Sketch_to_LCS.FCMacro. 
+Please use updated **Remap_Sketch_to_LCS.FCMacro**. 
 #
 Deprecated Remap_sketch_to_origin.FCMacro contains a deprecated function that will no longer work after version 27.2. 
 #
